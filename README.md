@@ -41,10 +41,6 @@
   <img src="https://progress-bar.dev/70/?color=orange&suffix=%25" alt="Firebase progress" />
   <p>Git</p>
   <img src="https://progress-bar.dev/80/?color=red&suffix=%25" alt="Git progress" />
-  <p>GitHub</p>
-  <img src="https://progress-bar.dev/85/?color=black&suffix=%25" alt="GitHub progress" />
-  <p>VS Code</p>
-  <img src="https://progress-bar.dev/90/?color=purple&suffix=%25" alt="VS Code progress" />
 </div>
 
 ###
@@ -73,6 +69,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eslam20033&show_icons=true&theme=github_dark&hide_border=false" height="200" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam20033&layout=compact&theme=github_dark&hide_border=false" height="200" />
+</div>
+
+###
+
+<h3 align="center" style="color:#58a6ff;">✨ Quote / Tip of the Day</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="quote of the day" />
 </div>
 
 ###
