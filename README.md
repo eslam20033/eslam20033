@@ -1,72 +1,80 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eslam-ahmed-985a1536a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://github.com/eslam20033" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eslam20033.eslam20033&right_color=blue&left_text=Profile%20Views"  />
+  <img width="10" />
+  <img src="https://img.shields.io/github/followers/eslam20033?label=Followers&style=for-the-badge" height="25" />
 </div>
 
 ###
 
 <h1 align="center" style="color:white;">Hey there 👋, I'm Eslam Ahmed</h1>
-
-###
-
 <h3 align="center" style="color:#58a6ff;">🚀 Flutter Developer in the making</h3>
 
-###
-
 <p align="center" style="color:#c9d1d9;">
-  I'm currently a student at <b>El Shorouk Academy</b> 🎓<br><br>
-  - 🔭 I’m learning <b>Dart & Flutter</b> deeply.<br>
-  - 🌱 I’m building small mobile apps and improving every day.<br>
-  - 💬 Ask me about <b>Flutter, Dart, Firebase, APIs</b>.<br>
-  - ⚡ Fun fact: I love turning ideas into real mobile apps!
+  I'm currently a student at <b>El Shorouk Academy</b> 🎓<br>
+  🔭 Learning <b>Dart & Flutter</b> deeply.<br>
+  🌱 Building mobile apps and improving every day.<br>
+  💬 Ask me about <b>Flutter, Dart, Firebase, APIs</b>.<br>
+  ⚡ Fun fact: I love turning ideas into real mobile apps! 💡
 </p>
 
 ###
 
-<h3 align="left" style="color:#58a6ff;">🛠 Languages and Tools</h3>
+<h3 align="left" style="color:#58a6ff;">🛠 Skills & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <p>Flutter</p>
+  <img src="https://progress-bar.dev/90/?color=blue&suffix=%25" alt="Flutter progress" />
+  <p>Dart</p>
+  <img src="https://progress-bar.dev/85/?color=blue&suffix=%25" alt="Dart progress" />
+  <p>Firebase</p>
+  <img src="https://progress-bar.dev/70/?color=orange&suffix=%25" alt="Firebase progress" />
+  <p>Git</p>
+  <img src="https://progress-bar.dev/80/?color=red&suffix=%25" alt="Git progress" />
+  <p>GitHub</p>
+  <img src="https://progress-bar.dev/85/?color=black&suffix=%25" alt="GitHub progress" />
+  <p>VS Code</p>
+  <img src="https://progress-bar.dev/90/?color=purple&suffix=%25" alt="VS Code progress" />
 </div>
 
 ###
 
-<h3 align="left" style="color:#58a6ff;">🔥 My GitHub Stats</h3>
+<h3 align="left" style="color:#58a6ff;">💻 Pinned Projects</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eslam20033&theme=github-dark&hide_border=false" height="200" alt="streak graph"  />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=eslam20033&show_icons=true&theme=github_dark&hide_border=false" height="200" alt="github stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam20033&layout=compact&theme=github_dark&hide_border=false" height="200" alt="top languages" />
+  <a href="https://github.com/eslam20033/FlutterCalculator" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Calculator+App" height="120" alt="Calculator App" />
+  </a>
+  <a href="https://github.com/eslam20033/BankSystem" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Bank+System" height="120" alt="Bank System" />
+  </a>
+  <a href="https://github.com/eslam20033/LibrarySystem" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Library+System" height="120" alt="Library System" />
+  </a>
 </div>
 
 ###
 
-<h3 align="center" style="color:#58a6ff;">✨ Keep learning, keep coding, and never stop creating ✨</h3>
+<h3 align="left" style="color:#58a6ff;">🔥 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eslam20033&theme=github-dark&hide_border=false" height="200" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=eslam20033&show_icons=true&theme=github_dark&hide_border=false" height="200" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam20033&layout=compact&theme=github_dark&hide_border=false" height="200" />
+</div>
+
+###
+
+<h3 align="center" style="color:#58a6ff;">✨ Keep learning, keep coding, and never stop creating 🖥️💡✨</h3>
