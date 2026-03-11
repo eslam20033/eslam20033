@@ -1,72 +1,27 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 💫 About Me:
+Hi there 👋  <br>I'm a Junior Flutter Developer passionate about building mobile applications using Flutter and Dart.<br><br>I have a solid understanding of Object-Oriented Programming (OOP) and enjoy writing clean, organized code while building real-world applications.<br><br>🚀 Currently working on  <br>My Graduation Project using Flutter while improving my skills in API integration and scalable app development.<br><br>🛠 Tech I work with  <br>Flutter • Dart • Provider (State Management) • REST APIs • Git • GitHub<br><br>📱 Projects I've built  <br>- Evently App  <br>- Movies App  <br>- News App  <br><br>These projects helped me practice navigation, state management using Provider, and building structured Flutter applications.<br><br>🌱 Currently learning  <br>API integration, advanced Flutter concepts, and improving my debugging and problem-solving skills.<br><br>⚡ Fun fact  <br>I enjoy UI development, solving programming problems, and understanding how things work behind the scenes.
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eslam-ahmed-985a1536a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/eslam20033" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EslamAliAhmed‏) 
 
-###
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eslam20033&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=eslam20033&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslam20033&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eslam20033.eslam20033&right_color=blue&left_text=Profile%20Views"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eslam20033&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h1 align="center" style="color:white;">Hey there 👋, I'm Eslam Ahmed</h1>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=eslam20033&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=eslam20033&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="center" style="color:#58a6ff;">🚀 Flutter Developer in the making</h3>
-
-###
-
-<p align="center" style="color:#c9d1d9;">
-  I'm currently a student at <b>El Shorouk Academy</b> 🎓<br><br>
-  - 🔭 I’m learning <b>Dart & Flutter</b> deeply.<br>
-  - 🌱 I’m building small mobile apps and improving every day.<br>
-  - 💬 Ask me about <b>Flutter, Dart, Firebase, APIs</b>.<br>
-  - ⚡ Fun fact: I love turning ideas into real mobile apps!
-</p>
-
-###
-
-<h3 align="left" style="color:#58a6ff;">🛠 Languages and Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
-
-###
-
-<h3 align="left" style="color:#58a6ff;">🔥 My GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eslam20033&theme=github-dark&hide_border=false" height="200" alt="streak graph"  />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=eslam20033&show_icons=true&theme=github_dark&hide_border=false" height="200" alt="github stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam20033&layout=compact&theme=github_dark&hide_border=false" height="200" alt="top languages" />
-</div>
-
-###
-
-<h3 align="center" style="color:#58a6ff;">✨ Keep learning, keep coding, and never stop creating ✨</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
