@@ -27,18 +27,9 @@
 ### 🚀 Technical Overview
 - 📱 **Mobile Development:** Expert in Flutter Framework & Dart Language.
 - 🏗️ **Architecture:** Solid understanding of **Clean Architecture**, **SOLID Principles**, and **OOP**.
-- 🛠️ **State Management:** Professional use of **Provider**, **Bloc**, and **Cubit**.
+- 🛠️ **State Management:** Professional use of **Provider**.
 - 🌐 **Data Handling:** Seamless integration with **RESTful APIs** and **Firebase Services**.
 - 🗄️ **Databases:** Experienced in **MySQL** and **MS SQL Server**.
-
----
-
-### 📱 Featured Projects
-| Project Name | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Event Hub** | `Flutter`, `Firebase`, `APIs` | A complete digital platform for organizing events & speakers. |
-| **Evently App** | `Flutter`, `Provider` | Practicing structured state management & clean UI patterns. |
-| **Movies App** | `Flutter`, `REST APIs` | Real-time data fetching with a focus on smooth UX. |
 
 ---
 
