@@ -1,20 +1,25 @@
 # 💫 About Me:
 Hi there 👋  
-I'm a **Junior Flutter Developer** passionate about building high-performance mobile applications using Flutter and Dart.  
+I'm **Eslam Ahmed**, a **Junior Flutter Developer** and **BIS Student** passionate about building high-performance, scalable mobile applications.
 
-I have a solid understanding of **Object-Oriented Programming (OOP)** and focus on writing clean, organized, and maintainable code while building real-world applications.
+I have a solid understanding of **Object-Oriented Programming (OOP)** and **SOLID Principles**, focusing on writing clean, maintainable, and production-ready code.
 
-🚀 **Currently working on:** My Graduation Project using Flutter while mastering **API integration** and **scalable app development**.
+🚀 **Currently working on:** My Graduation Project using **Flutter**, while mastering **Clean Architecture** and implementing advanced features like **Location-based services** and **Google Maps API**.
 
-🛠 **Tech I work with:** **Flutter • Dart • Provider (State Management) • REST APIs • Git • GitHub**
+🛠 **Tech Stack & Skills:** - **Framework & Language:** Flutter & Dart.
+- **State Management:** Provider, Bloc/Cubit.
+- **Backend & APIs:** Firebase Services, RESTful APIs (Integration & Handling).
+- **Architecture:** Clean Architecture, SOLID Principles, MVVM.
+- **Logic & Algorithms:** Experienced in custom sorting logic (like Date-then-Price sorting).
+- **Tools:** Git, GitHub, Postman, Figma, Google Maps API.
+- **Databases:** MySQL, Microsoft SQL Server.
 
-📱 **Projects I've built:** - **Evently App:** Full event management UI & Logic.
-- **Movies App:** Fetching and displaying real-time cinema data.
-- **News App:** Integration with News APIs for daily updates.
+📱 **Featured Projects:** - **Event Hub:** A comprehensive event management app featuring real-time data, Firebase integration, and advanced filtering.
+- **Evently, Movies & News Apps:** Practicing structured navigation, state management, and seamless API consumption.
 
-🌱 **Currently learning:** Advanced Flutter concepts, **Clean Architecture**, and improving my problem-solving skills through algorithmic challenges.
+🌱 **Currently learning:** Mastering **Clean Architecture**, advanced **debugging techniques**, and enhancing my **Problem-Solving** skills through complex algorithmic challenges.
 
-⚡ **Fun fact:** I enjoy UI/UX development, solving programming puzzles, and understanding the "under the hood" mechanics of software.
+⚡ **Fun fact:** I have a "Pixel-Perfect" mindset for UI/UX development, I enjoy solving logical puzzles, and I love understanding how things work "under the hood."
 
 ---
 
